@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:next": "cd ./intercepting-routes-nextjs && pnpm run dev",
+    "dev:vue": "cd ./intercepting-routes-vue && pnpm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

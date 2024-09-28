@@ -1,0 +1,3 @@
+packages:
+  - './intercepting-routes-nextjs'
+  - './intercepting-routes-vue'
